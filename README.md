@@ -20,5 +20,5 @@ color flips occuring while balancing after insertion or deletion.
 To test this program you have to create a test file with the commands and pass the filename
 while running the program. You can find sample test and output files in the repository as well.
 
-- The code can be run with the command python gatorLibrary.py <file_name>
+- The code can be run with the command "python gatorLibrary.py <file_name>"
 - The output will be generated in the file <filename>_output_file.txt
